@@ -12,7 +12,7 @@
 | NAPT | [lab-03-napt](lab-03-napt/) | скрытие внутренней сети |
 | **OSPF** | [lab-06-ospf](lab-06-ospf/) | OSPF spoofing, MD5-аутентификация |
 | **RIPv2** | [lab-07-rip](lab-07-rip/) | безопасность протоколов маршрутизации |
-| Subnetting (theory) | [lab-05-subnetting](subnetting_theory/) | фундамент анализа сетей |
+| Subnetting (theory) | [lab-05-subnetting](subnetting-theory/) | фундамент анализа сетей |
 
 ## Структура
 
