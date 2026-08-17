@@ -18,7 +18,7 @@
 - `*-report.pdf` — отчёт по лабораторной
 - `*-model.pkt` — модель сети в Packet Tracer
 
-## 🛠 Инструменты
+## Инструменты
 
 Cisco Packet Tracer, CLI Cisco IOS
 
