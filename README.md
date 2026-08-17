@@ -5,13 +5,14 @@
 
 ## Применение в кибербезопасности
 
-| Лаба | Навык | Связь с ИБ |
+| Лаба | Папка | Связь с ИБ |
 |------|-------|-----------|
-| DHCP | настройка DHCP-сервера | понимание DHCP-атак (rogue DHCP, starvation) |
-| VLSM + Static Routing | subnetting, маршрутизация | сегментация сети, контроль потоков трафика |
-| NAPT | настройка NAT | скрытие внутренней сети, трансляция адресов |
-| OSPF | динамическая маршрутизация | понимание трафика, OSPF spoofing attacks |
-| Subnetting (theory) | расчёт подсетей | фундамент для анализа сетей |
+| DHCP-сервер | [lab-01-dhcp](lab-01-dhcp/) | rogue DHCP-атаки |
+| VLSM + Static Routing | [lab-02-vlsm](lab-02-vlsm/) | сегментация сети |
+| NAPT | [lab-03-napt](lab-03-napt/) | скрытие внутренней сети |
+| **OSPF** | [lab-06-ospf](lab-06-ospf/) | OSPF spoofing, MD5-аутентификация |
+| **RIPv2** | [lab-07-rip](lab-07-rip/) | безопасность протоколов маршрутизации |
+| Subnetting (theory) | [lab-05-subnetting](lab-05-subnetting-theory/) | фундамент анализа сетей |
 
 ## Структура
 
